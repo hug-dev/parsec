@@ -10,7 +10,7 @@
   <a href="https://docs.rs/parsec-service"><img src="https://docs.rs/parsec-service/badge.svg" alt="Code documentation"/></a>
 </p>
 
-# Welcome To PARSEC
+# Welcome To Parsec
 
 **PARSEC** is the **P**latform **A**bst**R**action for **SEC**urity, an open-source initiative
 to provide a common API to hardware security and cryptographic services in a platform-agnostic way. This abstraction layer keeps workloads decoupled from physical platform details, enabling cloud-native delivery flows within the data center and at the edge.
